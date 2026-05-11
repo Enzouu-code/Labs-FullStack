@@ -1,0 +1,44 @@
+#blocoCasa{
+    background-color:#9CFCD4;
+}
+
+#blocoGeometria{
+    background-color: white;
+}
+
+.angulo{
+    display: flex;
+    justify-content: center;
+    margin-top:50px;
+    padding: 20px;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: radial-gradient(circle, #c5cada, #a5adbb, #1a0e0e);
+    color: white;
+}
+
+.casa{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+nav a:hover {
+    color: #00aaff;
+}
